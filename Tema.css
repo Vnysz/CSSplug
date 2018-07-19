@@ -450,15 +450,15 @@
     margin: 0px 0px 0 20px!important;
     padding: 0 0 0 18px;
 }
-	/*## [TAG-VIP] ##*/
+	/*## [TAG-LINDO] ##*/
 	
        /*# [Pυrpp] #*/
 #user-rollover.id-5639828 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
-    content: "[VIP]";
+    content: "[LINDO]";
     display: inline-block;
-    color: #e2da24!important;
+    color: #FF00FF!important;
     font-weight: bold;
     margin: 0px 0px 0 20px!important;
     padding: 0 0 0 18px;
@@ -758,10 +758,10 @@
     padding-right: 4px;
     position: relative;
 }
-        /*# [TAG-VIP] #*/
+        /*# [TAG-LINDO] #*/
 		/*# Pυrpp #*/
 #chat [data-cid^='5639828-'] .un:before {
-    content: '[VIP]';
+    content: '[LINDO]';
     top: 0px;
     Left: 0px;
 	color: #e2da24!important;
@@ -771,7 +771,7 @@
 }
 		/*# ninguem #*/
 #chat [data-cid^='000000-'] .un:before {
-    content: '[VIP]';
+    content: '[LINDO]';
     top: 0px;
     Left: 0px;
 	color: #e2da24!important;
@@ -781,7 +781,7 @@
 }
 		/*# Percyvall #*/
 #chat [data-cid^='29319764-'] .un:before {
-    content: '[VIP]';
+    content: '[LINDO]';
     top: 0px;
     Left: 0px;
 	color: #e2da24!important;

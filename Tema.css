@@ -452,8 +452,8 @@
 }
 	/*## [TAG-VIP] ##*/
 	
-       /*# [ninguem] #*/
-#user-rollover.id-000000 .level:after {
+       /*# [Pυrpp] #*/
+#user-rollover.id-5639828 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
@@ -759,8 +759,8 @@
     position: relative;
 }
         /*# [TAG-VIP] #*/
-		/*# ninguem #*/
-#chat [data-cid^='000000-'] .un:before {
+		/*# Pυrpp #*/
+#chat [data-cid^='5639828-'] .un:before {
     content: '[VIP]';
     top: 0px;
     Left: 0px;

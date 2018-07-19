@@ -469,7 +469,7 @@
     background-repeat: no-repeat;
     content: "[VIP]";
     display: inline-block;
-    color: #e2da24!important;
+    color: #FF00FF!important;
     font-weight: bold;
     margin: 0px 0px 0 20px!important;
     padding: 0 0 0 18px;
@@ -764,7 +764,7 @@
     content: '[LINDO]';
     top: 0px;
     Left: 0px;
-	color: #e2da24!important;
+	color: #FF00FF!important;
     padding-left: 2px;
     padding-right: 4px;
     position: relative;

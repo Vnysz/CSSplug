@@ -450,15 +450,15 @@
     margin: 0px 0px 0 20px!important;
     padding: 0 0 0 18px;
 }
-	/*## [TAG-LINDO] ##*/
+	/*## [TAG-Boss] ##*/
 	
        /*# [Pυrpp] #*/
 #user-rollover.id-5639828 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
-    content: "[LINDO]";
+    content: "Boss";
     display: inline-block;
-    color: #FF00FF!important;
+    color: #FF3030!important;
     font-weight: bold;
     margin: 0px 0px 0 20px!important;
     padding: 0 0 0 18px;
@@ -761,10 +761,10 @@
         /*# [TAG-LINDO] #*/
 		/*# Pυrpp #*/
 #chat [data-cid^='5639828-'] .un:before {
-    content: '[LINDO]';
+    content: 'Boss';
     top: 0px;
     Left: 0px;
-	color: #FF00FF!important;
+	color: #FF3030!important;
     padding-left: 2px;
     padding-right: 4px;
     position: relative;
